@@ -1,0 +1,10 @@
+[
+  {"name":"Clear positive","input":"The mentor session was useful and well organized.","expected_category":"Positive Feedback","purpose":"Checks a clear positive message."},
+  {"name":"Clear question","input":"Could you tell me when the next task is due?","expected_category":"Question","purpose":"Checks a direct information request."},
+  {"name":"Clear suggestion","input":"Please add a calendar to the dashboard.","expected_category":"Suggestion","purpose":"Checks a product improvement request."},
+  {"name":"Clear complaint","input":"My submission disappeared and support has not replied.","expected_category":"Complaint","purpose":"Checks a service problem report."},
+  {"name":"Ambiguous out-of-domain text","input":"Blue quickly the window although tomorrow.","expected_category":null,"purpose":"Failure case: the model is forced to choose a known class even for nonsense or out-of-domain text."},
+  {"name":"Empty input","input":"","expected_category":null,"purpose":"Input validation should reject empty feedback with a readable error."},
+  {"name":"Whitespace-only input","input":"   ","expected_category":null,"purpose":"Input validation should reject whitespace-only feedback."},
+  {"name":"Long input boundary","input":"This example documents the 2,000-character input limit; a string longer than that limit is rejected.","expected_category":null,"purpose":"The app rejects input longer than 2,000 characters."}
+]
