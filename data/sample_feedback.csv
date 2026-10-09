@@ -1,0 +1,51 @@
+text,label
+"The orientation session was very helpful and well organized.",Positive Feedback
+"I really enjoyed the mentor sessions this week.",Positive Feedback
+"The dashboard is easy to use and the instructions are clear.",Positive Feedback
+"Thank you for the quick response to my question.",Positive Feedback
+"The project resources were useful and easy to understand.",Positive Feedback
+"I am happy with the feedback I received from my mentor.",Positive Feedback
+"The internship schedule is clear and convenient.",Positive Feedback
+"The documentation helped me complete the task quickly.",Positive Feedback
+"The weekly meeting was informative and productive.",Positive Feedback
+"I appreciate how quickly the support team responded.",Positive Feedback
+"The portal is confusing and I cannot find my assigned task.",Negative Feedback
+"The instructions were unclear and caused a lot of confusion.",Negative Feedback
+"The dashboard keeps loading without showing my progress.",Negative Feedback
+"I had a difficult experience with the submission process.",Negative Feedback
+"The training material is too difficult to follow.",Negative Feedback
+"The portal layout is confusing for new students.",Negative Feedback
+"My task status did not update after I submitted it.",Negative Feedback
+"The video instructions were difficult to understand.",Negative Feedback
+"The system was slow when I tried to upload my work.",Negative Feedback
+"The onboarding process was frustrating and unclear.",Negative Feedback
+"How do I submit my completed assignment?",Question
+"Can you explain where I can find the internship schedule?",Question
+"What should I include in the project report?",Question
+"When is the deadline for the next task?",Question
+"Where can I see feedback from my mentor?",Question
+"How can I update my profile information?",Question
+"Can I resubmit a task after making corrections?",Question
+"What format should I use for the final presentation?",Question
+"Who should I contact if my submission fails?",Question
+"How do I access the resources for this week?",Question
+"Could the portal include a dark mode option?",Suggestion
+"I suggest adding progress indicators to the dashboard.",Suggestion
+"It would be useful to have a calendar for deadlines.",Suggestion
+"Please consider adding search to the resource page.",Suggestion
+"A downloadable checklist would make the workflow easier.",Suggestion
+"I recommend showing task requirements beside the submission form.",Suggestion
+"The dashboard could provide a weekly progress summary.",Suggestion
+"Adding filters for completed and pending tasks would help.",Suggestion
+"An FAQ section could answer common internship questions.",Suggestion
+"It would be helpful to receive a reminder before deadlines.",Suggestion
+"My submitted task disappeared from the portal.",Complaint
+"I was charged twice for a service I did not request.",Complaint
+"The support ticket has been ignored for several days.",Complaint
+"My completion certificate has incorrect information.",Complaint
+"I reported this issue before but it still has not been fixed.",Complaint
+"The portal marked my assignment late even though I submitted it on time.",Complaint
+"My account was locked after a normal login attempt.",Complaint
+"The promised resource is missing from my internship page.",Complaint
+"I cannot access a task that should already be available.",Complaint
+"I received an incorrect result after submitting my assessment.",Complaint
